@@ -9,7 +9,7 @@ public class GreetingTest {
     @Test
     public void testAppHasAGreeting() {
         Greeting greeting = new Greeting();
-        assertEquals("Hello Word", greeting.getGreeting());
+        assertEquals("Hello world", greeting.getGreeting());
     }
 
 }

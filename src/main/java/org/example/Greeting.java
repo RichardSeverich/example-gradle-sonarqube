@@ -9,6 +9,6 @@ public class Greeting {
      * @return String.
      */
     public String getGreeting() {
-        return "Hello world.";
+        return "Hello world";
     }
 }
